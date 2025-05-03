@@ -1,0 +1,11 @@
+{
+  "name": "Example MDC",
+  "description": "An MDC file that helps review code for bugs and improvements",
+  "version": "1.0.0",
+  "author": "dotmdc",
+  "category": "programming",
+  "tags": ["code-review", "ai", "programming"],
+  "license": "MIT",
+  "main": "example.mdc",
+  "github": "https://github.com/dotmdc/example"
+}
